@@ -33,7 +33,7 @@ print BOLD BLUE<<EOTEXT;
 |______||__|__||__|  |__||_____||____||__|__|__||___._||_____|
  
  Ho, Ho, Ho, Nigga Get Hit Offline - Have Some Presents
-Coded by:Slammed-Networkz
+Coded by:RouterWarz
 EOTEXT
  
 print "Sending Presents: $ip " . ($port ? $port : "random") . "
