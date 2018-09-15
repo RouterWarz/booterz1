@@ -1,7 +1,7 @@
 # Diamond Perl Script #
 #!/usr/bin/perl
  
-Dexious The God # UDP DDOS METHOD #
+RouterWarz # UDP DDOS METHOD #
  
 use Socket;
 use strict;
