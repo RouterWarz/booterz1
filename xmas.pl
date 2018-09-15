@@ -20,7 +20,7 @@ print <<EOTEXT;
 +-++-++-++-++-++-+
  �� ��� �+-++�  ��
 --+--++-++-++-+--+
-Created by Slammed-Networkz
+Created by RouterWarz
 ______________________
 
 Welcome To xmas
