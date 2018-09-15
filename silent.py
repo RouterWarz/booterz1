@@ -163,7 +163,7 @@ if __name__ == '__main__':
 	sedot_parameters()
 	print("")
 	print("------------------------------")
-	print("Layer 7 Attack By Slammed-Networkz")
+	print("Layer 7 Attack By RouterWarz")
 	print("------------------------------")
 	print("")
 	print("Target Lock In :")
