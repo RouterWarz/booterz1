@@ -17,7 +17,7 @@ socket(flood, PF_INET, SOCK_DGRAM, 17);
 
 print <<EOTEXT;
 
-Coded By: Slammed-Networkz
+Coded By: RouterWarz
 
 EOTEXT
 
