@@ -1,11 +1,7 @@
 # RouterWarz
 
-Welcome here you'll find a powerful ddos script 
+Welcome here you'll find aload powerful ddos scripts
 
-to use the script type :
+they were made by me 
 
-perl xmas IP PORT 65500 TIME
-
-to stop the attack 
-
-CTRL C
+check out myour wbesite booter: slammed-networkz.tk
